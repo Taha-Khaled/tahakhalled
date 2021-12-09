@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
-    whatsapp
+-   whatsapp
 - 📱 +201120844738 , +201016794031
-    gmail
+-   gmail
 - 📧 taha.khaled9988@gmail.com
-    facebook
+-   facebook
 - 📱 https://www.facebook.com/Taha.Khalled/
